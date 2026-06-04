@@ -24,7 +24,7 @@ Final Recall: -0.79
 4.Feature Engineering: Designed a brand new metric called `Stress_to_Activity_Ratio`. This combines stress levels and active minutes mathematically, giving the model a much clearer feature to learn from.
 5. Model Tuning:** Tested 3 separate algorithms (Logistic Regression, Random Forest, and Gradient Boosting). Random Forest performed the best, so I used GridSearchCV to find the perfect hyperparameter settings.
 6. Final Evaluation: Validated the model against a separate testing set and printed a full classification matrix to confirm the 0.79 accuracy.
-video like (https://1drv.ms/v/c/01f37e99cc5257a9/IQCV2MA8G1ZjTKlONh3AEfhnAXAdoNh_hwKpYnvCZZ2dUQ4?e=oMjUE6)
+video like ((https://1drv.ms/v/c/01f37e99cc5257a9/IQCNkgujRru_RKEJePvP0P_3ARJM2O5WaFAvgldcYronUy0?e=rPfBQA))
 
 * `Sleep_Quality_Project (2).ipynb` – The complete Jupyter Notebook containing all the code, clean-up steps, and data visualizations.
 * `cleaned_sleep_data.csv` – The finalized dataset used to train our model.
